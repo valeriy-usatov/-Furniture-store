@@ -1,0 +1,24 @@
+@import "./../fonts/Gilroy/stylesheet.css";
+
+
+// Base
+
+@import "./base/base";
+@import "./base/reset";
+@import "./base/vars";
+
+// Blocks
+
+@import "./blocks/header";
+@import "./blocks/nav";
+@import "./blocks/_mobile-nav";
+@import "./blocks/sub-nav";
+@import "./blocks/info-dot";
+@import "./blocks/_info-hint";
+@import "./blocks/benefits";
+@import "./blocks/_products";
+@import "./blocks/read-more";
+@import "./blocks/card";
+@import "./blocks/slider";
+@import "./blocks/footer";
+@import "./blocks/logo";
